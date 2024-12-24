@@ -1,9 +1,5 @@
 # Next.js AI-Powered SaaS Application
-AI-powered software as a service (SaaS) application built with Next.js. It allows users to:
-- Create an account
-- Transform images using AI
-- View community image transformations
-- Purchase credits to perform transformations
+This AI-powered SaaS application, built with Next.js, enables users to transform images using advanced AI tools and explore a community gallery of image transformations.
 
 ## Link to the Deployed Project
 Below is a link to the deployed project:
